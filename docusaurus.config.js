@@ -61,9 +61,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/mhdf-plugin-logo-no-background.png',
       navbar: {
-        title: 'MHDF-Plugin | 梦之插件',
+        title: '梦之插件 | MHDF-plugins',
         logo: {
-          alt: 'MHDF-Plugin | 梦之插件',
+          alt: '梦之插件 | MHDF-plugins',
           src: 'img/mhdf-plugin-logo-no-background.png',
         },
         items: [
@@ -74,7 +74,7 @@ const config = {
             label: '文档',
           },
           {
-            href: 'https://github.com/ChengZhiMeow/MHDF-Tools',
+            href: 'https://github.com/ChengZhiMeow',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,7 +92,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ChengZhiMeow/MHDF-Tools',
+                href: 'https://github.com/ChengZhiMeow',
               }
             ],
           },
@@ -101,11 +101,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://qm.qq.com/q/',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/',
+                href: 'https://qm.qq.com/cgi-bin/qm/qr?k=yFohqtqdDeXfdPvSLY81_3dzkcjc_-Uf&jump_from=webapi&authKey=ZxYDhb/PqczeWIYXE9IUEeuSAtFyxjYUrTgwUJu74FvOcGcJgTvo/vXAUzkHBO2Q',
               }
             ],
           },
@@ -114,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/ChengZhiMeow/MHDF-Tools',
+                href: 'https://github.com/ChengZhiMeow',
               },
               {
                 label: '创世极客工作室',
