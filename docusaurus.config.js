@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'MHDF-Plugin-Docs | 梦之插件文档',
   tagline: '✨一款轻量化便携的Bukkit基础插件✨',
-  favicon: 'img/mhdf-plugin-logo.png',
+  favicon: 'img/mhdf-plugin-logo-no-background.png',
 
   // Set the production url of your site here
   url: 'https://docs.chengzhimeow.cn/',
@@ -59,12 +59,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/mhdf-plugin-logo.png',
+      image: 'img/mhdf-plugin-logo-no-background.png',
       navbar: {
         title: 'MHDF-Plugin | 梦之插件',
         logo: {
           alt: 'MHDF-Plugin | 梦之插件',
-          src: 'img/mhdf-plugin-logo.png',
+          src: 'img/mhdf-plugin-logo-no-background.png',
         },
         items: [
           {
