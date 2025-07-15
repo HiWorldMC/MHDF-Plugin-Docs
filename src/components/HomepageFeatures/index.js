@@ -23,15 +23,18 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className={styles.sectionHeader}>
           <Heading as="h2" className={styles.sectionTitle}>
-            为什么选择 <span className="text--primary">梦之插件</span>
+            <span className="text--primary">梦之插件</span> 都有什么?
           </Heading>
-          <p className={styles.sectionSubtitle}>
-            梦之插件是一款轻量化便携的Bukkit基础插件，具有轻量、简单、快捷等特点
+          <h2 className={styles.sectionSubtitle}>
+            梦之工具
+          </h2>
+          <p className={styles.sectionDescription}>
+            一款轻量化便携的Bukkit基础插件
           </p>
           <img 
-              src="img/mhdf-plugin-banner.png"
-              alt="梦之插件" 
-              className={styles.heroImage}
+              src="img/mhdf-tools-banner.png"
+              alt="梦之工具" 
+              className={styles.bannerImage}
               loading="lazy"
             />
         </div>

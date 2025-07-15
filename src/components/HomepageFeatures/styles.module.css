@@ -4,7 +4,7 @@
   align-items: center;
   padding: 3rem 0;
   width: 100%;
-  background-color: #f8f9fa;
+  background-color: #181818;
 }
 
 .featuresInner {
@@ -103,19 +103,42 @@
 .sectionTitle {
   font-size: 2.2rem;
   margin-bottom: 1rem;
-  color: #f7fafc;
+  color: #e8e8e8;
   font-weight: 700;
 }
 
 .sectionSubtitle {
-  font-size: 1.2rem;
-  color: #a0aec0;
+  font-size: 1.5rem;
+  color: #fdbbbb;
   max-width: 700px;
+  margin: 0 auto;
+}
+
+.sectionDescription {
+  font-size: 1rem;
+  color: #8e8e8e;
   margin: 0 auto;
 }
 
 .text--primary {
   color: #36c085;
+}
+
+.bannerImage {
+  max-width: 100%;
+  margin-top: 20px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 40px 80px rgba(0, 0, 0, 0.12), 0 0 0 1px rgba(0, 0, 0, 0.05);
+  transform: perspective(1000px) rotateY(-5deg) rotateX(5deg) translateZ(0);
+  transition: all 0.5s cubic-bezier(0.17, 0.67, 0.83, 0.67);
+  filter: brightness(1.05);
+}
+
+.bannerImage:hover {
+  transform: perspective(1000px) rotateY(0) rotateX(0) translateZ(20px);
+  filter: brightness(1.08);
+  box-shadow: 0 50px 100px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05);
 }
 
 /* 特效增强 - 简化效果以匹配截图 */
@@ -155,9 +178,13 @@ html[data-theme='light'] .featureDescription {
 }
 
 html[data-theme='light'] .sectionTitle {
-  color: #333;
+  color: #242424;
 }
 
 html[data-theme='light'] .sectionSubtitle {
-  color: #666;
+  color: #dba2a2;
+} 
+
+html[data-theme='light'] .sectionDescription {
+  color: #323232;
 } 
