@@ -6,18 +6,18 @@ sidebar_position: 2
 
 ## 需求
 
-当前支持的游戏版本: **1.17-1.21+**
+当前支持的游戏版本: **1.17-1.21.7**
 
 最佳支持版本：**1.21.4**
 
 | 服务端             | 兼容性             |
 |-------------------|--------------------|
-| Bukkit            | :white_check_mark: |
-| Spigot            | :white_check_mark: |
-| Paper             | :white_check_mark: |
-| Purpur            | :white_check_mark: |
-| Bungeecord        | :white_check_mark: |
-| Velocity          | :white_check_mark: |
+| Bukkit            | ❌ |
+| Spigot            | ❌ |
+| Paper             | ✅ |
+| Purpur            | ✅ |
+| Bungeecord        | ✅ |
+| Velocity          | ✅ |
 
 ## 安装步骤
 

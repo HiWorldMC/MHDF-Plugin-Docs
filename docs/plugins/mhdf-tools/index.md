@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 简介
 
-![](img/mhdf-plugin-banner.png)
+![](img/mhdf-tools-banner.png)
 
 **✨你的下一个基础插件，为何不能是梦之工具✨**
 
