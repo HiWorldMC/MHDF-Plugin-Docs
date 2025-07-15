@@ -1,0 +1,27 @@
+{
+  "id": "plugins/mhdf-tools/problems",
+  "title": "常见问题",
+  "description": "请仔细浏览此页面，确定没有你的问题或解决方法失效后，再开启Issue或在群内提问",
+  "source": "@site/docs/plugins/mhdf-tools/problems.md",
+  "sourceDirName": "plugins/mhdf-tools",
+  "slug": "/plugins/mhdf-tools/problems",
+  "permalink": "/docs/plugins/mhdf-tools/problems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/problems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "菜单功能",
+    "permalink": "/docs/plugins/mhdf-tools/functions/menu"
+  },
+  "next": {
+    "title": "开发API",
+    "permalink": "/docs/plugins/mhdf-tools/api"
+  }
+}

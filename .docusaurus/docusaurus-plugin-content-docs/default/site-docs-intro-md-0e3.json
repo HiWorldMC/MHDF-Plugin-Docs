@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "文档 | Docs",
+  "description": "请从左侧选择相应文档开始",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "插件 | Plugins",
+    "permalink": "/docs/category/插件--plugins"
+  }
+}

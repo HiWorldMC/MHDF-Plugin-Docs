@@ -1,0 +1,23 @@
+{
+  "id": "sdk/mhdf-httpframe copy 2",
+  "title": "梦之调度器 | MHDF-Scheduler",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-httpframe copy 2.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-httpframe copy 2",
+  "permalink": "/docs/sdk/mhdf-httpframe copy 2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-httpframe copy 2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之网页框架 | MHDF-HttpFramework",
+    "permalink": "/docs/sdk/mhdf-httpframework"
+  }
+}

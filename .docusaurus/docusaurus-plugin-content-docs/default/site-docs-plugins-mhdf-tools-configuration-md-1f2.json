@@ -1,0 +1,27 @@
+{
+  "id": "plugins/mhdf-tools/configuration",
+  "title": "配置",
+  "description": "目前没啥可写的",
+  "source": "@site/docs/plugins/mhdf-tools/configuration.md",
+  "sourceDirName": "plugins/mhdf-tools",
+  "slug": "/plugins/mhdf-tools/configuration",
+  "permalink": "/docs/plugins/mhdf-tools/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "安装",
+    "permalink": "/docs/plugins/mhdf-tools/installation"
+  },
+  "next": {
+    "title": "命令",
+    "permalink": "/docs/plugins/mhdf-tools/commands"
+  }
+}

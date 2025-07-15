@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-verify",
+  "title": "梦之验证 | MHDF-Verify",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-verify.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-verify",
+  "permalink": "/docs/sdk/mhdf-verify",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-verify.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之语言 | MHDF-LangUtil",
+    "permalink": "/docs/sdk/mhdf-langutil"
+  },
+  "next": {
+    "title": "梦之反射 | MHDF-Reflection",
+    "permalink": "/docs/sdk/mhdf-reflection"
+  }
+}

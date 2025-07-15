@@ -1,0 +1,27 @@
+{
+  "id": "plugins/mhdf-tools/functions/operative",
+  "title": "操作功能",
+  "description": "",
+  "source": "@site/docs/plugins/mhdf-tools/functions/operative.md",
+  "sourceDirName": "plugins/mhdf-tools/functions",
+  "slug": "/plugins/mhdf-tools/functions/operative",
+  "permalink": "/docs/plugins/mhdf-tools/functions/operative",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/functions/operative.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "功能",
+    "permalink": "/docs/category/功能"
+  },
+  "next": {
+    "title": "条件功能",
+    "permalink": "/docs/plugins/mhdf-tools/functions/conditional"
+  }
+}

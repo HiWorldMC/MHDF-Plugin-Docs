@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-yaml",
+  "title": "梦之YAML配置 | MHDF-Yaml",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-yaml.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-yaml",
+  "permalink": "/docs/sdk/mhdf-yaml",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-yaml.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "SDK/开发框架",
+    "permalink": "/docs/category/sdk开发框架"
+  },
+  "next": {
+    "title": "梦之网页框架 | MHDF-HttpFramework",
+    "permalink": "/docs/sdk/mhdf-httpframework"
+  }
+}

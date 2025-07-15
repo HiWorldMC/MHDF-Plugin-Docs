@@ -1,0 +1,27 @@
+{
+  "id": "plugins/mhdf-tools/permissions",
+  "title": "权限",
+  "description": "",
+  "source": "@site/docs/plugins/mhdf-tools/permissions.md",
+  "sourceDirName": "plugins/mhdf-tools",
+  "slug": "/plugins/mhdf-tools/permissions",
+  "permalink": "/docs/plugins/mhdf-tools/permissions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/permissions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "命令",
+    "permalink": "/docs/plugins/mhdf-tools/commands"
+  },
+  "next": {
+    "title": "功能",
+    "permalink": "/docs/category/功能"
+  }
+}

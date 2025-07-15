@@ -1,0 +1,23 @@
+{
+  "id": "plugins/mhdf-tools/functions/index",
+  "title": "操作功能",
+  "description": "",
+  "source": "@site/docs/plugins/mhdf-tools/functions/index.md",
+  "sourceDirName": "plugins/mhdf-tools/functions",
+  "slug": "/plugins/mhdf-tools/functions/",
+  "permalink": "/docs/plugins/mhdf-tools/functions/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/functions/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "功能 | Functions",
+    "permalink": "/docs/category/功能--functions"
+  }
+}

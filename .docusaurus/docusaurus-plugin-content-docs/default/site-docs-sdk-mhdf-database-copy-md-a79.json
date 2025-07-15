@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-database copy",
+  "title": "梦之机器人 | MHDF-Bot",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-database copy.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-database copy",
+  "permalink": "/docs/sdk/mhdf-database copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-database copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之数据库 | MHDF-Database",
+    "permalink": "/docs/sdk/mhdf-database"
+  },
+  "next": {
+    "title": "梦之依赖 | MHDF-Library",
+    "permalink": "/docs/sdk/mhdf-library"
+  }
+}

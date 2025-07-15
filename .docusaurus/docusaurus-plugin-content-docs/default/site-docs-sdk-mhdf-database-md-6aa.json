@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-database",
+  "title": "梦之数据库 | MHDF-Database",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-database.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-database",
+  "permalink": "/docs/sdk/mhdf-database",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-database.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之网页框架 | MHDF-HttpFramework",
+    "permalink": "/docs/sdk/mhdf-httpframework"
+  },
+  "next": {
+    "title": "梦之机器人 | MHDF-Bot",
+    "permalink": "/docs/sdk/mhdf-bot"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-httpframework",
+  "title": "梦之网页框架 | MHDF-HttpFramework",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-httpframework.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-httpframework",
+  "permalink": "/docs/sdk/mhdf-httpframework",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-httpframework.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之YAML配置 | MHDF-Yaml",
+    "permalink": "/docs/sdk/mhdf-yaml"
+  },
+  "next": {
+    "title": "梦之数据库 | MHDF-Database",
+    "permalink": "/docs/sdk/mhdf-database"
+  }
+}

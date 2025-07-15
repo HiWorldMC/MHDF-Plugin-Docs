@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-condition",
+  "title": "梦之条件 | MHDF-Condition",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-condition.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-condition",
+  "permalink": "/docs/sdk/mhdf-condition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-condition.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之反射 | MHDF-Reflection",
+    "permalink": "/docs/sdk/mhdf-reflection"
+  },
+  "next": {
+    "title": "梦之调度器 | MHDF-Scheduler",
+    "permalink": "/docs/sdk/mhdf-scheduler"
+  }
+}

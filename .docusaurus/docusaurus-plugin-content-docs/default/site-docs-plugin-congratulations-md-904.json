@@ -1,0 +1,27 @@
+{
+  "id": "plugin/congratulations",
+  "title": "Congratulations!",
+  "description": "",
+  "source": "@site/docs/plugin/congratulations.md",
+  "sourceDirName": "plugin",
+  "slug": "/plugin/congratulations",
+  "permalink": "/docs/plugin/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugin/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "插件",
+    "permalink": "/docs/category/插件"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

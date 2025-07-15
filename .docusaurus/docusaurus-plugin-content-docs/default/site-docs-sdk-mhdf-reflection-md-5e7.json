@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-reflection",
+  "title": "梦之反射 | MHDF-Reflection",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-reflection.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-reflection",
+  "permalink": "/docs/sdk/mhdf-reflection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-reflection.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之验证 | MHDF-Verify",
+    "permalink": "/docs/sdk/mhdf-verify"
+  },
+  "next": {
+    "title": "梦之条件 | MHDF-Condition",
+    "permalink": "/docs/sdk/mhdf-condition"
+  }
+}

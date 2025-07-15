@@ -1,0 +1,27 @@
+{
+  "id": "plugins/mhdf-tools/installation",
+  "title": "安装",
+  "description": "需求",
+  "source": "@site/docs/plugins/mhdf-tools/installation.md",
+  "sourceDirName": "plugins/mhdf-tools",
+  "slug": "/plugins/mhdf-tools/installation",
+  "permalink": "/docs/plugins/mhdf-tools/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "简介",
+    "permalink": "/docs/plugins/mhdf-tools/"
+  },
+  "next": {
+    "title": "配置",
+    "permalink": "/docs/plugins/mhdf-tools/configuration"
+  }
+}

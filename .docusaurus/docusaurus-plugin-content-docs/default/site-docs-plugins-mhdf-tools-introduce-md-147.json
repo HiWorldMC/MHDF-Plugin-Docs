@@ -1,0 +1,27 @@
+{
+  "id": "plugins/mhdf-tools/introduce",
+  "title": "介绍",
+  "description": "简介",
+  "source": "@site/docs/plugins/mhdf-tools/introduce.md",
+  "sourceDirName": "plugins/mhdf-tools",
+  "slug": "/plugins/mhdf-tools/introduce",
+  "permalink": "/docs/plugins/mhdf-tools/introduce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/plugins/mhdf-tools/introduce.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "插件 | Plugins",
+    "permalink": "/docs/category/插件--plugins"
+  },
+  "next": {
+    "title": "安装",
+    "permalink": "/docs/plugins/mhdf-tools/installation"
+  }
+}

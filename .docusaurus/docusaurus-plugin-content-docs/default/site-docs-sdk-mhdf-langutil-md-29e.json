@@ -1,0 +1,27 @@
+{
+  "id": "sdk/mhdf-langutil",
+  "title": "梦之语言 | MHDF-LangUtil",
+  "description": "",
+  "source": "@site/docs/sdk/mhdf-langutil.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/mhdf-langutil",
+  "permalink": "/docs/sdk/mhdf-langutil",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/HiWorldMC/MHDF-Plugin-Docs/tree/main/docs/sdk/mhdf-langutil.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "梦之依赖 | MHDF-Library",
+    "permalink": "/docs/sdk/mhdf-library"
+  },
+  "next": {
+    "title": "梦之验证 | MHDF-Verify",
+    "permalink": "/docs/sdk/mhdf-verify"
+  }
+}

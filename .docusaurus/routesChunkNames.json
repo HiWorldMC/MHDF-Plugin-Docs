@@ -1,0 +1,168 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-7ba": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-24c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-aca": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/插件--plugins-87d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-插件-plugins-4-b-2-598"
+  },
+  "/docs/category/功能-10c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-功能a-0-c-9da"
+  },
+  "/docs/category/sdk开发框架-3bf": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-sdk开发框架ab-4-1a0"
+  },
+  "/docs/intro-058": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/plugins/mhdf-tools/-ae9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-552-d22"
+  },
+  "/docs/plugins/mhdf-tools/api-94c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-apie-69-c4e"
+  },
+  "/docs/plugins/mhdf-tools/commands-54f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-commandsead-daf"
+  },
+  "/docs/plugins/mhdf-tools/configuration-41b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-configuration-1-f-2-9fb"
+  },
+  "/docs/plugins/mhdf-tools/functions/conditional-c46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-functions-conditional-32-d-64a"
+  },
+  "/docs/plugins/mhdf-tools/functions/menu-4f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-functions-menudb-9-c30"
+  },
+  "/docs/plugins/mhdf-tools/functions/operative-460": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-functions-operativeeba-123"
+  },
+  "/docs/plugins/mhdf-tools/installation-867": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-installationcdb-b38"
+  },
+  "/docs/plugins/mhdf-tools/permissions-0c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-permissions-4-a-5-8d4"
+  },
+  "/docs/plugins/mhdf-tools/problems-a52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-plugins-mhdf-tools-problemsabb-376"
+  },
+  "/docs/sdk/mhdf-bot-6d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-boteaf-2c2"
+  },
+  "/docs/sdk/mhdf-condition-f52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-conditione-04-3cd"
+  },
+  "/docs/sdk/mhdf-database-540": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-database-6-aa-c09"
+  },
+  "/docs/sdk/mhdf-httpframework-7e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-httpframeworkbaf-f19"
+  },
+  "/docs/sdk/mhdf-langutil-895": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-langutil-29-e-e60"
+  },
+  "/docs/sdk/mhdf-library-9b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-librarybda-2a3"
+  },
+  "/docs/sdk/mhdf-reflection-556": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-reflection-5-e-7-cbc"
+  },
+  "/docs/sdk/mhdf-scheduler-386": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-schedulerf-5-a-428"
+  },
+  "/docs/sdk/mhdf-verify-a2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-verify-67-a-277"
+  },
+  "/docs/sdk/mhdf-yaml-2b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdk-mhdf-yaml-89-b-5ef"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}
