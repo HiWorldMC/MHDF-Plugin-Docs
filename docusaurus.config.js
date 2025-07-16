@@ -61,9 +61,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/mhdf-plugin-logo-no-background.png',
       navbar: {
-        title: '梦之插件 | MHDF-plugins',
+        title: '梦之插件 | MHDF-Plugins',
         logo: {
-          alt: '梦之插件 | MHDF-plugins',
+          alt: '梦之插件 | MHDF-Plugins',
           src: 'img/mhdf-plugin-logo-no-background.png',
         },
         items: [
