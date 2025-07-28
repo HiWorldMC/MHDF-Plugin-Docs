@@ -38,7 +38,7 @@ sidebar_position: 4
 | ❇️  | `/lookinventory <玩家>` | 查看玩家的背包 |
 | ❇️  | `/lookitem` | 查看手中物品的详细信息 |
 | ☑️  | `/list` | 查看在线玩家列表 |
-| ☑️  | `/menu` | 打开插件菜单(别名/mt) |
+| ❇️  | `/menu` | 打开插件菜单(别名/mt) |
 | ❇️  | `/money [玩家]` | 查看自己或他人的余额 |
 | ☑️  | `/moneyadmin <参数>` | 经济系统高级管理 |
 | ☑️  | `/mhdftools` | 插件主命令(别名/mt) |
@@ -49,7 +49,7 @@ sidebar_position: 4
 | ❇️  | `/randomteleport [参数]` | 随机传送(别名/rtp) |
 | ❇️  | `/reply <消息>` | 回复最后私聊的玩家 |
 | ❇️  | `/sethome <家名称>` | 设置家的位置 |
-| ☑️  | `/setspawn` | 设置服务器出生点 |
+| ❇️  | `/setspawn` | 设置服务器出生点 |
 | ❇️  | `/setwarp <传送点>` | 设置公共传送点 |
 | ❇️  | `/spawn` | 传送至服务器出生点 |
 | ☑️  | `/stop <参数>` | 安全关闭服务器 |
